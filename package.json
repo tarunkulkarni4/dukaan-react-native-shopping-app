@@ -1,6 +1,11 @@
 {
   "name": "mini-shopping-app",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tarunkulkarni4/dukaan-react-native-shopping-app.git"
+  },
+  "homepage": "https://github.com/tarunkulkarni4/dukaan-react-native-shopping-app#readme",
   "main": "expo-router/entry",
   "dependencies": {
     "@expo-google-fonts/outfit": "^0.4.3",

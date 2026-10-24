@@ -1,5 +1,7 @@
 # Dukaan — Mini Shopping App
 
+> **Repository:** [https://github.com/tarunkulkarni4/dukaan-react-native-shopping-app](https://github.com/tarunkulkarni4/dukaan-react-native-shopping-app)
+
 Dukaan is a shopping app built with **React Native** and **Expo** as part of a frontend development assignment.
 
 The goal was to create a clean, modern mobile shopping experience where users can browse products, search by name, filter by category, view detailed product information, and manage their shopping cart with persistent local storage.
@@ -47,12 +49,12 @@ The goal was to create a clean, modern mobile shopping experience where users ca
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tarunkulkarni4/dukaan-react-native-shopping-app.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd mini-shopping-app
+   cd dukaan-react-native-shopping-app
    ```
 
 3. **Install dependencies:**
