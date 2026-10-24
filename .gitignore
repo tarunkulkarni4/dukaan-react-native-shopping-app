@@ -9,6 +9,12 @@ dist/
 web-build/
 expo-env.d.ts
 
+# EAS & Builds
+eas-inspect/
+.eas/
+*.apk
+*.aab
+
 # Native
 .kotlin/
 *.orig.*
@@ -21,17 +27,28 @@ expo-env.d.ts
 # Metro
 .metro-health-check*
 
-# debug
+# debug & logs
 npm-debug.*
 yarn-debug.*
 yarn-error.*
 
-# macOS
+# OS files
 .DS_Store
 *.pem
+Thumbs.db
+ehthumbs.db
 
 # local env files
+.env
 .env*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE & Editor folders
+.vscode/
+.idea/
 
 # typescript
 *.tsbuildinfo
